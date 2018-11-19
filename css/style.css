@@ -5,6 +5,29 @@ body {
   color: #333;
 }
 
+.tk0 {
+  width: 30px;
+  height: auto;
+}
+/* ============legal============== */
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+/* ============legal============== */
+
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
@@ -1194,6 +1217,34 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #newsletter ul li .fa {
   color: #fff;
 }
+
+/* office
+------------------------ */
+#office {
+  background: #fff;
+}
+
+#office .info {
+  color: #222;
+}
+
+#office .info i {
+  font-size: 22px;
+  color: #71c55d;
+  float: left;
+}
+
+#office .info p {
+  padding: 0 0 5px 40px;
+  /* margin-bottom: 20px; */
+  line-height: 22px;
+  font-size: 18px;
+}
+
+#office .info .email p {
+  padding-top: 5px;
+}
+
 
 /* Contact Section
 --------------------------------*/
